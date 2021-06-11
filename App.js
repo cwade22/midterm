@@ -9,7 +9,10 @@ export default function App() {
   const [message, setMessage] = React.useState("");
   
   function compareNumbers(){
-    //figure out function here
+    // function here
+    //make sure input is in range
+    //figure out if bigger smaller or equal
+    //return value
   
   }
   return (
